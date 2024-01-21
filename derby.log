@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Dec 27 17:09:36 CET 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-018c-ac09-db9a-000007308000 
+on database directory /Users/oluniaxoxo/Downloads/UTP8_FA_S29303/TRAVEL_DB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@251a69d7 
+Loaded from file:/Users/oluniaxoxo/Downloads/UTP8_FA_S29303/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=17.0.2+8-LTS-86
+user.dir=/Users/oluniaxoxo/Downloads/UTP8_FA_S29303
+os.name=Mac OS X
+os.arch=aarch64
+os.version=13.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ResourceBundleManager">
+    <file url="file://$PROJECT_DIR$/src/offersResource.properties" />
+    <file url="file://$PROJECT_DIR$/src/offersResource_DE.properties" />
+    <file url="file://$PROJECT_DIR$/src/offersResource_PL.properties" />
+    <file url="file://$PROJECT_DIR$/src/offersResource_en_GB.properties" />
+    <custom-resource-bundle>
+      <file value="file://$PROJECT_DIR$/src/offersResource.properties" />
+      <file value="file://$PROJECT_DIR$/src/offersResource_DE.properties" />
+      <file value="file://$PROJECT_DIR$/src/offersResource_PL.properties" />
+      <file value="file://$PROJECT_DIR$/src/offersResource_en_GB.properties" />
+      <base-name>offersResource</base-name>
+    </custom-resource-bundle>
+  </component>
+</project>
